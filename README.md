@@ -1,5 +1,8 @@
-Java Developer
+* Spring Boot Developer
 
-Spring Boot Developer
+* Angular Developer
 
-Angular Developer
+* PostgreSQL
+
+
+* Feel free ask :)
