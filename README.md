@@ -15,4 +15,4 @@
 * Close to million dollar ideas
 
 
-* !Attığım komitler beni bağlar!
+* !Attığım commitler beni bağlar!
