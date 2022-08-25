@@ -12,6 +12,9 @@
 * Docker
 
 
+*My Open Repo is from my learnig stage. Its like a dashboard to me. Has no meaning but you can check it out :)
+
+
 
 * Feel free ask :)
 
