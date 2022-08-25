@@ -10,7 +10,8 @@
 * PostgreSQL
 
 * Docker
-
+<br>
+<br>
 
 
 
@@ -19,13 +20,15 @@
 * Open to billion dollar ideas
 
 * Close to million dollar ideas
-
+<br>
+<br>
 
 
 
 *My Open Repos is from my learnig stage. Its like a dashboard to me. Has no meaning but you can check it out :)
 
-
+<br>
+<br>
 
 
 * !Attığım commitler beni bağlar!
