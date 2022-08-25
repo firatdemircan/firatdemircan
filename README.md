@@ -20,7 +20,12 @@
 
 * Close to million dollar ideas
 
-*My Open Repo is from my learnig stage. Its like a dashboard to me. Has no meaning but you can check it out :)
+
+
+
+*My Open Repos is from my learnig stage. Its like a dashboard to me. Has no meaning but you can check it out :)
+
+
 
 
 * !Attığım commitler beni bağlar!
