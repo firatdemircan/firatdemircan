@@ -12,10 +12,9 @@
 * Docker
 
 <br>
-<br>
 
 
-* !Attığım commitler beni bağlar!
+* !Attığın commitler seni bağlar!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
